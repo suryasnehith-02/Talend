@@ -1,0 +1,95 @@
+[ {
+  "baseItem" : {
+    "id" : "_FuFo0E8pEfCN8sDRmMie0w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5DBtEE7IEfCHGaeYBg4GkQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_GLbPoE8qEfCN8sDRmMie0w",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_GLbPoE8qEfCN8sDRmMie0w - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Gdz7IE9hEfCgy8KbkeJc6g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_DNW3AE9hEfCgy8KbkeJc6g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DNW3AE9hEfCgy8KbkeJc6g - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_IsmAUE80EfCI7OU71dbQTw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5DBtEE7IEfCHGaeYBg4GkQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_QckZYE9YEfCtEKUtMrNltw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ClNgoE9bEfCtEKUtMrNltw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ClNgoE9bEfCtEKUtMrNltw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ZSVC8E7FEfCHGaeYBg4GkQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5DBtEE7IEfCHGaeYBg4GkQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_5DBtEE7IEfCHGaeYBg4GkQ - example",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ohlpEE-OEfCFpu6P-HOrrg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DrWrsE-PEfCFpu6P-HOrrg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DrWrsE-PEfCFpu6P-HOrrg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

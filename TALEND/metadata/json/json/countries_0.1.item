@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendJSON="http://www.talend.org/json" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendJSON:JSONFileConnection xmi:id="_DrcyUE-PEfCFpu6P-HOrrg" name="countries" dataPackage="_DrcyV0-PEfCFpu6P-HOrrg" JSONFilePath="C:/Users/narla/Downloads/cuba_country_data.json" Encoding="UTF-8" readbyMode="JSONPATH">
+    <schema xmi:id="_DrcyUU-PEfCFpu6P-HOrrg" LimitBoucle="50" AbsoluteXPathQuery="$[*].currencies[*]">
+      <schemaTargets xmi:id="_DrcyUk-PEfCFpu6P-HOrrg" RelativeXPathQuery="$[*].name" TagName="name1"/>
+      <schemaTargets xmi:id="_DrcyU0-PEfCFpu6P-HOrrg" RelativeXPathQuery="$[*].topLevelDomain[*]" TagName="topLevelDomain___"/>
+      <schemaTargets xmi:id="_DrcyVE-PEfCFpu6P-HOrrg" RelativeXPathQuery="code" TagName="code"/>
+      <schemaTargets xmi:id="_DrcyVU-PEfCFpu6P-HOrrg" RelativeXPathQuery="name" TagName="name"/>
+      <schemaTargets xmi:id="_DrcyVk-PEfCFpu6P-HOrrg" RelativeXPathQuery="symbol" TagName="symbol"/>
+    </schema>
+  </TalendJSON:JSONFileConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_DrcyV0-PEfCFpu6P-HOrrg" name="default" dataManager="_DrcyUE-PEfCFpu6P-HOrrg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_DrcyWE-PEfCFpu6P-HOrrg" id="_twsyQE-OEfCFpu6P-HOrrg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_DrcyWU-PEfCFpu6P-HOrrg" label="name1" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_DrcyWk-PEfCFpu6P-HOrrg" label="topLevelDomain___" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_DrcyW0-PEfCFpu6P-HOrrg" label="code" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_DrcyXE-PEfCFpu6P-HOrrg" label="name" length="22" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_DrcyXU-PEfCFpu6P-HOrrg" label="symbol" length="1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
