@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin">
   <deletedFolders>metadata/connections/connect_database</deletedFolders>
+  <deletedItems id="_3i5t8FamEfCDwMZ76XmioQ" path="" type="CONTEXT"/>
+  <deletedItems id="_PvZjoFamEfCDwMZ76XmioQ" path="" type="CONTEXT"/>
   <deletedItems id="_Uy4KME7HEfCHGaeYBg4GkQ" path="/connect_database" type="METADATA_CONNECTIONS"/>
   <deletedItems id="_ujy1cE7FEfCHGaeYBg4GkQ" path="/connect_database" type="METADATA_CONNECTIONS"/>
+  <deletedItems id="_3mzhEFanEfCDwMZ76XmioQ" path="" type="PROCESS"/>
   <deletedItems id="_rSzusE_qEfCwUYr4cynJLg" path="" type="PROCESS"/>
 </recyclebin:RecycleBin>

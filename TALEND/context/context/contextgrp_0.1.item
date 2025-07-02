@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_Z3bcMFapEfCDwMZ76XmioQ" confirmationNeeded="false" hide="false" name="Default">
+    <contextParameter xmi:id="_Z3bcMVapEfCDwMZ76XmioQ" comment="" name="file_path" prompt="file_path?" promptNeeded="true" repositoryContextId="built-in" type="id_File" value="C:/Users/narla/Downloads/users.csv"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_t9f9IFaqEfCDwMZ76XmioQ" confirmationNeeded="false" hide="false" name="development">
+    <contextParameter xmi:id="_t9f9IVaqEfCDwMZ76XmioQ" comment="" name="file_path" prompt="file_path?" promptNeeded="true" repositoryContextId="built-in" type="id_File" value="C:/Users/narla/Downloads/users.csv"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_9CwKIFdcEfCqPtVtplNYLg" confirmationNeeded="false" hide="false" name="testing">
+    <contextParameter xmi:id="_9CwKIVdcEfCqPtVtplNYLg" comment="" name="file_path" prompt="file_path?" promptNeeded="true" repositoryContextId="built-in" type="id_File" value="C:/Users/narla/OneDrive/Desktop/customers.csv"/>
+  </talendfile:ContextType>
+</xmi:XMI>

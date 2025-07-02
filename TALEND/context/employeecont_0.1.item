@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_3jduoFamEfCDwMZ76XmioQ" confirmationNeeded="false" hide="true" name="Default">
+    <contextParameter xmi:id="_3jduoVamEfCDwMZ76XmioQ" comment="" name="file_path" prompt="file_path?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_RZn0UFanEfCDwMZ76XmioQ" confirmationNeeded="false" hide="false" name="Development">
+    <contextParameter xmi:id="_RZn0UVanEfCDwMZ76XmioQ" comment="" name="file_path" prompt="file_path?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="C:/Users/narla/Downloads/users.csv"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_RZn0U1anEfCDwMZ76XmioQ" confirmationNeeded="false" hide="true" name="Testing">
+    <contextParameter xmi:id="_RZn0VFanEfCDwMZ76XmioQ" comment="" name="file_path" prompt="file_path?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
